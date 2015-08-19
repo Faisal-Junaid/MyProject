@@ -192,24 +192,23 @@ Hyperlink Targets
 External HyperLink Target
 =========================
 
-	PyHUG_ and Taipei.py_ are both the `Python <http://
-	python.org/>`_ user groups in Taiwan.
-..  _PyHUG: http://www.meetup.com/pythonhug/
-..  _Taipei.py: http://taipei.python.org.tw/
+PyHUG_ and Taipei.py_ are both the `Python <http://python.org/>`_ user groups in Taiwan.
+	.. _PyHUG: http://www.meetup.com/pythonhug/
+	.. _Taipei.py: http://taipei.python.org.tw/
+	
 
 
 Internal HyperLink Target
 =========================
 
 	- The Internal HyperLink Target are given below
-		.. see also:: Internal HyperLink Target
+		.. see also:: 
+		    Internal HyperLink Target
 		
 	.. note::
 		This Documentation is created by M.Faisal Junaid Butt.
-		
 	
-	PyHUG_ and Taipei.py_ are both the Python user groups
-	in Taiwan.
+	PyHUG_ and Taipei.py_ are both the Python user groups in Taiwan.
 .. _PyHUG:
 	PyHUG is ...
 
