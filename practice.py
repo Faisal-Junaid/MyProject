@@ -193,8 +193,8 @@ External HyperLink Target
 =========================
 
 PyHUG_ and Taipei.py_ are both the `Python <http://python.org/>`_ user groups in Taiwan.
-	.. _PyHUG: http://www.meetup.com/pythonhug/
-	.. _Taipei.py: http://taipei.python.org.tw/
+	.. _PyHUG: http://www.meetup.com/
+	.. _Taipei.py: http://taipei.python.org/
 	
 
 
