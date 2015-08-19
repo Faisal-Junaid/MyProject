@@ -8,3 +8,6 @@ Practice
 	:Data:	19-08-2015
 .. automodule:: practice
    :members:
+   
+.. automodule:: hyperlink_target
+   :members:
