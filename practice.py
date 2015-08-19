@@ -49,23 +49,13 @@ The Second Paragraph
 
 Lists
 =====
-	
-================
-Enumerated Lists
-================
 
-============
-Bullet Lists
-============
+- Enumerated Lists
+- Bullet Lists
+- Definition Lists
+- option Lists
 
-================ 
-Definition Lists
-================
-
-==============
-Option Lists
-============
-
+===============
 Enumerated List
 ===============
 
@@ -73,7 +63,7 @@ Enumerated List
 	4. The Second Item
 	#. The Third Item
 	
-
+===========
 Bullet List
 ===========
 
@@ -83,11 +73,12 @@ Bullet List
 	----------------
 	"-", "*" or "+".
 	----------------
-	  continuing text must be aligned
+	continuing text must be aligned	  
 	  
-	  
-	 Two Blank lines will be required
-	 
+	
+	Two Blank lines will be required
+
+===============	 
 Definition List
 ===============
 
